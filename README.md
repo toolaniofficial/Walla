@@ -25,6 +25,9 @@ This is a modern, responsive **portfolio website** built with **React.js** and *
 - **Clean Code & Reusable Components**  
   Built with modular components for easy maintenance and scalability.
 
+### LIve Demo
+Use this link to preview the project live https://walla-flame.vercel.app/
+
 ### 📁 **Folder Structure Overview**
 ```
 /src
@@ -36,7 +39,5 @@ This is a modern, responsive **portfolio website** built with **React.js** and *
   ├── App.jsx
   └── main.jsx
 
-### LIve Demo
-Use this link to preview the project live https://walla-flame.vercel.app/
 
 
